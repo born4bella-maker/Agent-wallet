@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Fleet | Self-Custodied Agent Wallet OS",
+  "description": "A secure financial operating system for autonomous AI agents. Built on ERC-6551 Token Bound Accounts and ERC-4337 Account Abstraction with real-time spend firewalls and cryptographic attestations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
